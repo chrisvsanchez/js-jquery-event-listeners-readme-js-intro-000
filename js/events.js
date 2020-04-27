@@ -27,8 +27,9 @@ $("form").on("submit", function(){
   }
   alert('you entered the wrong value');
   return;
-});
 
+});
+}
 
 $(document).ready(function(){
 
