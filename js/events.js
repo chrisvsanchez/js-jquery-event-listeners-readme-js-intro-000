@@ -10,6 +10,7 @@ $('img').on("load", function(){
     $('img').addClass("tasty");
  })
   }
+  
 function pressIt(){
 $('').on('keydown', function(){
 })
