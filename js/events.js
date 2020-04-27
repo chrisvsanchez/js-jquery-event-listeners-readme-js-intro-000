@@ -4,10 +4,11 @@
      alert("hey");
   })
   }
-
-$('').on('load',function frameIt(){
+function frameIt(){
+$('').on('load', function (){
     
-  });
+ })
+  }
 
 $('').on('keydown', function pressIt(){
   
