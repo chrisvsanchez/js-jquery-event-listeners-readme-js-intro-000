@@ -9,11 +9,11 @@ $('').on('load', function (){
     
  })
   }
-
-$('').on('keydown', function pressIt(){
-  
-});
-
+function pressIt(){
+$('').on('keydown', function(){
+})
+}
+function 
 $('form').on('submit',function submitIt(){
   if($('inpit:first').val()=== 'correct'){
     alert('Your form is going to be submitted now.');
