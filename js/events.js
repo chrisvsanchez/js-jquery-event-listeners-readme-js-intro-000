@@ -4,6 +4,7 @@
      alert("hey");
   })
   }
+  
 function frameIt(){
 $('img').on('load', function (){
     
