@@ -2,8 +2,8 @@
  function getIt(){
   $('p').on("click" , function (){
      alert("hey");
+  })
   }
-  });
 
 $('').on('load',function frameIt(){
     
