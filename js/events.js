@@ -1,7 +1,7 @@
 //define functions here
   $('p').on("click" , function getIt(){
     if ($ ("click") === true){
-      alert("hey");
+     return alert("hey");
 }
     
   });
