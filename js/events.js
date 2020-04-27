@@ -1,7 +1,10 @@
 //define functions here
   $('p').on('click' , function getIt(){
-    alert("hey");
-});
+    if ($ ("click") === true){
+      alert("hey");
+}
+    
+  });
 
 $('').on('load',function frameIt(){
     
