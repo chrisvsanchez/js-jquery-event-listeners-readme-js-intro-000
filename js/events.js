@@ -5,7 +5,7 @@
   })
   }
 function frameIt(){
-$('').on('load', function (){
+$('img').on('load', function (){
     
  })
   }
@@ -13,6 +13,7 @@ function pressIt(){
 $('').on('keydown', function(){
 })
 }
+
 function submitIt(){
 $('form').on('submit',function(){
   if($('inpit:first').val()=== 'correct'){
